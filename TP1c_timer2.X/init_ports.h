@@ -1,0 +1,9 @@
+#ifndef __INIT_PORTS__
+#define __INIT_PORTS__
+
+
+#include <xc.h>
+
+void init_ports(void);
+
+#endif
